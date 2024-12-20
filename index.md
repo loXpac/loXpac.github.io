@@ -2,7 +2,7 @@
 layout: home
 title: Cinema's Golden Age
 subtitle: Has there even ever been such a thing ?
-cover-img: "/assets/img/SUG-2292.jpg"
+cover-img: "/assets/img/charlie.gif"
 ---
 
 ## Lights, Camera, and ... Action !
